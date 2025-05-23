@@ -1,0 +1,10 @@
+{
+        "isBaseRuleset": true,
+            "constants": {
+                    "maxXPfromBarbarians":100,
+                            "cityStrengthBase":15,
+                                    "cityStrengthPerPop":0.5,
+                                            "unitUpgradeCost": {}
+                                                }
+                                                }
+}

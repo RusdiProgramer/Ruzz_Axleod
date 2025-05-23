@@ -1,0 +1,19 @@
+[
+    	{
+        		"name": "Palace",
+                		"isNationalWonder": true,
+                        		"production": 1,
+                                		"science": 1,
+                                        		"gold": 1,
+                                                		"culture": 1,
+                                                        		"cost": 0,
+                                                                		"uniques": ["Indicates the capital city"]
+                                                                        	},
+                                                                            	{
+                                                                                		"name": "Map",
+                                                                                        		"cost": 0,
+                                                                                                		"hurryCostModifier": 0,
+                                                                                                        		"uniques": ["Reveals the entire map"]
+                                                                                                                	}
+                                                                                                                    ]
+]
